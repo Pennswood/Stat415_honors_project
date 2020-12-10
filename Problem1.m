@@ -1,3 +1,5 @@
+clear all;
+close all;
 %Part a)
 % Grid of 140 dots (including both endpoints makes it 141) between -2 to 12.
 % Since (12+2)/.1 = 140, this is exactly steps of .1

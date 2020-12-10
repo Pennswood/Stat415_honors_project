@@ -1,3 +1,5 @@
+clear all;
+close all;
 sampled_data = [43, 24, 100, 35, 85];
 B = 200;
 n = length(sampled_data);
